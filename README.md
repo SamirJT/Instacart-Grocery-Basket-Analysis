@@ -38,5 +38,4 @@ Instacart Data Sets:
 ● Customers Data Set
 ● Data Dictionary
 ● Citation “The Instacart Online Grocery Shopping Dataset
-2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on
-<date>.
+2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 10/2022.
