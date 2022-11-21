@@ -1,5 +1,7 @@
 # Instacart-Grocery-Basket-Analysis
 Achievement 4 Python Project
+[A4_Data_Project Brief.pdf](https://github.com/samirjt09/Instacart-Grocery-Basket-Analysis/files/10058399/A4_Data_Project.Brief.pdf)
+
 
 Objective
 You’re an analyst for an existing company, Instacart, an online grocery store that operates
@@ -39,3 +41,6 @@ Instacart Data Sets:
 ● Data Dictionary
 ● Citation “The Instacart Online Grocery Shopping Dataset
 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 10/2022.
+
+Folder Directory
+
