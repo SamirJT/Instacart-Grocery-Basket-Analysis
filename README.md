@@ -10,3 +10,14 @@
 
 #### Opensource data from 2017 made available by Instacart [here.](https://www.instacart.com/datasets/grocery-shopping-2017)
 #### A fictional customer database provided by Career Foundry, found [here.](https://github.com/SamirJT/Instacart-Grocery-Basket-Analysis/files/10077500/customers.csv)
+
+## Folder Directory
+
+#### 01 Project Management - Project Brief
+#### 03 Scripts - Python scripts completed during each course lesson and subsequent task
+#### 04 Analysis - Project visualizations
+#### 05 Sent to Client - Final project report
+
+## Project Skills on Display
+
+#### Python Data wrangling, Data merging, Deriving variables, Grouping data, Aggregating data, Reporting in Excel, Population Flows
